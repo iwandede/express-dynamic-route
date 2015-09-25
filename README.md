@@ -7,4 +7,5 @@ Express + NodeJS Dynamic Routes
 ### Configurations
 - Edit config.js
 
-
+### Running
+- node server or node server.js
